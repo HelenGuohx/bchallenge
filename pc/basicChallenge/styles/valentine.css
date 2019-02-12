@@ -1,0 +1,19 @@
+
+.main{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	width:800px;
+	text-align: center;
+}
+.main_img{
+	width: 600px;
+}
+.main_title{
+	color: black;
+}
+.main_content{
+	
+	color: black;
+	text-align: left;
+}

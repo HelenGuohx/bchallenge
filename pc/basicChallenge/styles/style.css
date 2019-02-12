@@ -1,0 +1,43 @@
+body{
+	background-color: black;
+}
+.main{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	width:800px;
+	text-align: center;
+}
+.main_img{
+	width: 600px;
+}
+.main_title{
+	color: white;
+}
+.main_content{
+	
+	color: white;
+	text-align: left;
+}
+
+.main_title-click{
+	color: yellow;
+	font-size: xx-large;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	line-height:10px;
+}
+.main_title-click > a {
+	color: yellow;
+}
+/*	a:link {color: #FF0000}
+	a:visited {color: #00FF00}
+	a:hover {color: #FF00FF}
+	a:active {color: #0000FF}*/
+
+.main_content-homepage{
+	color: white;
+	text-align: left;
+	margin-bottom: 50px;
+	word-spacing:2px;
+	line-height: 30px;
+}
