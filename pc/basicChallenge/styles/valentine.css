@@ -17,17 +17,19 @@ body{
 .main_title{
 	color: black;
 	font-size: 2em;
+	margin: 30px auto;
 }
 .main_title_clock{
 	color: pink;
-	font-size: 2.2em;
+	font-size: 2.1em;
 }
 .main_title-frame{
 	width: 400px;
 	height: auto;
-	border-style: ridge;
+	border:none;
+	/*border-style: ridge;
     border-width: 10px;
-    border-color: pink;
+    border-color: pink;*/
 }
 .main_content{
 	
